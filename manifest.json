@@ -1,0 +1,12 @@
+{
+  "name": "Sci-Hub-Shortcut",
+  "version": "0.1",
+  "description": "One-click shortcut to append sci-hub url",
+  "permissions": ["activeTab"],
+  "browser_action": {},
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
+
